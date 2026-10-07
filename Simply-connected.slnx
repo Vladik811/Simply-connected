@@ -1,0 +1,7 @@
+<Solution>
+  <Configurations>
+    <Platform Name="x64" />
+    <Platform Name="x86" />
+  </Configurations>
+  <Project Path="Simply-connected/Simply-connected.vcxproj" Id="890bfd1a-4e18-4f05-b338-2da99f49f0b6" />
+</Solution>
